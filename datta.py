@@ -5,4 +5,5 @@ c=a+b
 
 m=52
 e=c+m
-dj mane
+datta mane
+
